@@ -16,8 +16,8 @@ This application provides real-time location tracking using a combination of Exp
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/ashishkaushik05/TrackerProject
+   cd TrackerProject
    ```
 
 2. **Install dependencies:** Make sure you have Node.js and npm installed, then run:
